@@ -1,4 +1,4 @@
-# Heuristic-Algorithms
+# Heuristic-Algorithms-HCCVRP
 We build some heuristic algorithms for heterogeneous cumulative capacitated vehicle routing problem such that we can compared times executions and results, these algorithms are: 
 
 1. Constructive methods: Nearest Neighbor Algorithm
